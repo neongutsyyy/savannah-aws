@@ -1,0 +1,7 @@
+body{
+    background-color: #2d3034;
+    display: grid;
+    grid-template-rows: auto auto auto auto auto auto auto;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #fffff6;
+}

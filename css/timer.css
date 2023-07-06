@@ -1,0 +1,9 @@
+.website-timer{
+  justify-content: center;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom: 50px;
+  pointer-events: none;
+}
+.countdown-timer{
+  pointer-events: none;
+}

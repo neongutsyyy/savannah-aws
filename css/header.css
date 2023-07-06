@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}    
+.header-tatgheinpur{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+    color: aliceblue;
+    padding-top: 13px;
+    margin-left: 25px;
+    font-size: 22px;    
+}
+.header-buttons{
+    display: grid;
+    grid-template-columns: 60px 60px 70px;
+    margin-top: 13px;
+    margin-right: 25px;
+}
+.header-buttons:hover{
+    cursor: pointer;
+}
